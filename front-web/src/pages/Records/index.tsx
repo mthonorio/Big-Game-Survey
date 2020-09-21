@@ -5,7 +5,6 @@ import './styles.css';
 import { RecordsResponse } from './types';
 import { formatDate } from './helpers';
 import Pagination from './Pagination';
-import { Link } from 'react-router-dom';
 import Filters from '../../components/Filters';
 
 const BASE_URL = 'https://sds1-matheushonorio.herokuapp.com/'
